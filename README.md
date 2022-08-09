@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @BhawnaJain01
 - 👀 I’m interested in Coding and enthusiast in learning new technologies.
-- 🌱 I’m currently learning Web Development
+- 🌱 My tech stacks are C , C++ , MYSQL , Java Script , Node js , Mongodb , React js , Express js..
+- I am a Web Developer......
+
 
 
 <!---
