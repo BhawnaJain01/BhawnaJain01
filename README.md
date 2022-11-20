@@ -2,9 +2,9 @@
 <!-- h -->
 <span style="color:#39FF14"><h2 align="center" color="#39FF14"> Full Stack Web Developer | Competitive Enthusiast | Learner </h2></span>
 
-<div>
+<!-- <div>
 <img align="right" alt="coding" width="350" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-</div>
+</div> -->
 <h2>
 
 🙋🏻‍♂️ About Me
@@ -21,7 +21,7 @@
  
 -  📫 How to reach me **bhawnajain012003@gmail.com**
  
-- 🙂 Fond of **cricket, games and movies**
+- 🙂 Fond of **cricket, music and movies**
 
 
 
@@ -95,11 +95,11 @@
 
 <p >
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sahil_Rohera-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sahil-rohera-202939214/)](https://www.linkedin.com/in/bhawna-jain-03423022a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Bhawna_Jain-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhawna-jain-03423022a/)](https://www.linkedin.com/in/bhawna-jain-03423022a/)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-sahilrohera10-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/sahilrohera10)](https://twitter.com/sahilrohera10) -->
-[![Gmail Badge](https://img.shields.io/badge/sahilrohera10@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:sahilrohera10@gmail.com)](mailto:bhawnajain012003@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/SAHIL_ROHERA/)](https://leetcode.com/Bhawna_Jain01/)
+[![Gmail Badge](https://img.shields.io/badge/bhawnajain012003@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:bhawnajain012003@gmail.com)](mailto:bhawnajain012003@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Bhawna_Jain01/)](https://leetcode.com/Bhawna_Jain01/)
 
  </p>
 </br>
