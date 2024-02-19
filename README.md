@@ -99,7 +99,7 @@
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-sahilrohera10-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/sahilrohera10)](https://twitter.com/sahilrohera10) -->
 [![Gmail Badge](https://img.shields.io/badge/bhawnajain012003@gmail.com-white?style=for-the-badge&logo=Gmail&logoColor=&link=mailto:bhawnajain012003@gmail.com)](mailto:bhawnajain012003@gmail.com)
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Bhawna_Jain01/)](https://leetcode.com/Bhawna_Jain01/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/Bhawna_Jain1/)](https://leetcode.com/Bhawna_Jain1/)
 
  </p>
 </br>
